@@ -4,7 +4,7 @@ Use this to understand how Sinya works and what he expects. Safe to share — it
 
 ## Background
 
-Sinya is the owner and lead engineer at **Alpha Star Research Company**, a quantitative research and live trading shop. He writes most of the code himself.
+Sinya is the owner and lead engineer at **Alpha Star Research Company**, a quantitative research and live trading shop. He writes lots of code himself.
 
 ## How he thinks about engineering
 
